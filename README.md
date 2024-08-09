@@ -6,8 +6,8 @@
 
 Package structure -> ToDo
 > **class ldBot**
-> > [parameter] _username_
-> > [parameter] _home_
+> > [parameter] _username_\n
+> > [parameter] _home_\n
 > > [parameter] _admin_
 > > [parameter] _id_
 > > variable _status_
