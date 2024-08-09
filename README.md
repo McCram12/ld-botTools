@@ -5,20 +5,13 @@
 Package structure -> ToDo
 > **class ldBot**
 > > [parameter] _username_
-
 > > [parameter] _home_
-
 > > [parameter] _admin_
-
 > > [parameter] _id_
-
 > > variable _status_
 > > > method _start()_
-
 > > > method _stop()_
-
 > > > method _log()_
-
 > > > method _getLogs(keyword)_
 > > > method _registerCommand(command)_
 > > > > _CommandSyntax:_
