@@ -1,3 +1,5 @@
+hi
+
 # ld-botTools
 
 *my first NPM package*
